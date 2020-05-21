@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   viewBox="0 0 158.75 158.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ideas.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient895"
+       inkscape:collect="always">
+      <stop
+         id="stop891"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop893"
+         offset="1"
+         style="stop-color:#00b7e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient889"
+       inkscape:collect="always">
+      <stop
+         id="stop885"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop887"
+         offset="1"
+         style="stop-color:#00b7e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient867">
+      <stop
+         style="stop-color:#43aa85;stop-opacity:1;"
+         offset="0"
+         id="stop863" />
+      <stop
+         style="stop-color:#00b7e6;stop-opacity:1"
+         offset="1"
+         id="stop865" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient859">
+      <stop
+         style="stop-color:#43aa85;stop-opacity:1;"
+         offset="0"
+         id="stop855" />
+      <stop
+         style="stop-color:#00b7e6;stop-opacity:1"
+         offset="1"
+         id="stop857" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient861"
+       x1="261.88828"
+       y1="112.46139"
+       x2="254.91673"
+       y2="124.94538"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient867"
+       id="linearGradient869"
+       x1="284.10361"
+       y1="108.14589"
+       x2="296.46066"
+       y2="98.448677"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient881"
+       gradientUnits="userSpaceOnUse"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201"
+       gradientTransform="translate(-21.401134,56.594111)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient883"
+       gradientUnits="userSpaceOnUse"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677"
+       gradientTransform="translate(-21.401134,56.594111)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient905"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.212182,96.067314)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient907"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.212182,96.067314)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-19.736601,136.96726)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient919"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-19.736601,136.96726)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient947"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-21.53369,189.96523)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient949"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-21.53369,189.96523)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient963"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-25.569127,237.38161)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient965"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-25.569127,237.38161)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(85.874221,51.886102)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(76.957081,52.480584)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(76.957081,52.480584)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient1009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(85.160849,96.947379)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient1011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(85.160849,96.947379)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="linearGradient1021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(87.538753,146.40778)"
+       x1="266.29782"
+       y1="104.46512"
+       x2="257.18872"
+       y2="130.37201" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient1023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(87.538753,146.40778)"
+       x1="275.06757"
+       y1="113.08004"
+       x2="296.46066"
+       y2="98.448677" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#1e1f2a"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.2053846"
+     inkscape:cx="318.2027"
+     inkscape:cy="251.44444"
+     inkscape:document-units="px"
+     inkscape:current-layer="flowRoot812"
+     showgrid="false"
+     units="px"
+     scale-x="0.26458"
+     inkscape:pagecheckerboard="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-intersection-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24998)">
+    <g
+       aria-label="RK"
+       transform="matrix(0.26458334,0,0,0.26458334,-2.3593265,138.40727)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot812">
+      <g
+         id="g1114">
+        <path
+           inkscape:connector-curvature="0"
+           id="path820"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           d="m 126.32188,122.83085 -5.71999,-8.2 q -0.36,0.04 -1.08,0.04 h -6.32 v 8.16 h -5.2 v -28 h 11.52 q 3.64,0 6.31999,1.2 2.72,1.2 4.16001,3.44 1.44,2.24 1.44,5.32 0,3.16 -1.56,5.44 -1.52,2.28 -4.4,3.4 l 6.44,9.2 z m -0.11999,-18.04 q 0,-2.68 -1.76,-4.12 -1.76001,-1.44 -5.16,-1.44 h -6.08 v 11.16 h 6.08 q 3.39999,0 5.16,-1.44 1.76,-1.48 1.76,-4.16 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path822"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           d="m 141.56189,111.11085 -4.44,4.56 v 7.16 h -5.2 v -28 h 5.2 v 14.36 l 13.83999,-14.36 h 5.84 l -11.76,12.52 12.48001,15.48 h -6.08001 z" />
+      </g>
+      <g
+         id="g1110">
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           d="m 135.33846,157.78604 v -28 h -11.52 c -2.42667,0 -4.53333,0.4 -6.31999,1.2 -1.81333,0.8 -3.2,1.94667 -4.16001,3.44 -0.96,1.49333 -1.44,3.26667 -1.44,5.32 0,2.10667 0.52,3.92 1.56,5.44 1.01333,1.52 2.48,2.65333 4.4,3.4 l -6.44,9.2 c 0,0 13.72763,0 23.92,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           id="path825"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 139.77846,146.06604 -4.44,4.56 v 7.16 h -5.2 v -28 h 5.2 v 14.36 l 13.83999,-14.36 h 5.84 l -11.76,12.52 12.48001,15.48 h -6.08001 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           id="path827"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g1106">
+        <path
+           inkscape:connector-curvature="0"
+           id="path829"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           d="m 130.48498,190.8389 v -28 h -9.52 c -2.42667,0 -4.53333,0.4 -6.31999,1.2 -1.81333,0.8 -3.2,1.94667 -4.16001,3.44 -0.96,1.49333 -1.44,3.26667 -1.44,5.32 0,2.10667 0.52,3.92 1.56,5.44 1.01333,1.52 2.48,2.65333 4.4,3.4 l -6.44,9.2 z"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path831"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           d="m 134.48498,190.8389 v -28 h 20.87999 l -11.76,12.52 12.48001,15.48 z" />
+      </g>
+      <g
+         id="g1102">
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           d="m 108.90127,228.97197 v -32 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           id="path833"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 134.82127,228.97197 v -32 h 20.87999 l -11.76,14.52 12.48001,17.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+           id="path835"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <g
+         id="g1065">
+        <path
+           inkscape:connector-curvature="0"
+           id="path837"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill-opacity:1;fill:url(#linearGradient861)"
+           d="M 252.49555,128.75863 V 96.758629 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.440001 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path839"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient869);fill-opacity:1"
+           d="M 278.41555,128.75863 V 96.758629 h 20.87999 l -11.76,16.520001 12.48001,15.48 z" />
+        <path
+           sodipodi:nodetypes="csccsccc"
+           d="m 252.49555,96.758629 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.440001 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.800001 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1"
+           id="path843"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 278.41555,128.75863 V 96.758629 c 6.48815,11.148841 14.11575,21.517261 21.6,32.000001 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1"
+           id="path845"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g1071">
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           d="m 231.09442,185.35274 v -32 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient881);fill-opacity:1"
+           id="path873"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 257.01442,185.35274 v -32 h 20.87999 l -11.76,16.52 12.48001,15.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient883);fill-opacity:1"
+           id="path875"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path877"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1"
+           d="m 231.09442,153.35274 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           sodipodi:nodetypes="csccsccc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path879"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1"
+           d="m 257.01442,185.35274 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z" />
+      </g>
+      <g
+         id="g1077">
+        <path
+           inkscape:connector-curvature="0"
+           id="path897"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient905);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:butt;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 232.28337,224.82594 v -32 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path899"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient907);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:butt;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 258.20337,224.82594 v -32 h 20.87999 l -11.76,16.52 12.48001,15.48 z" />
+        <path
+           sodipodi:nodetypes="csccsccc"
+           d="m 232.28337,192.82594 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:butt;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path901"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 258.20337,224.82594 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:butt;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path903"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g1084">
+        <path
+           d="m 228.75895,269.72589 v -40 h 58.79999 l -15.00113,19.45396 15.72114,20.54604 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.06044388;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path921"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           d="m 232.75895,265.72589 v -32 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path909"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 258.67895,265.72589 v -32 h 20.87999 l -11.76,16.52 12.48001,15.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient919);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path911"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path913"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 232.75895,233.72589 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           sodipodi:nodetypes="csccsccc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path915"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 258.67895,265.72589 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z" />
+      </g>
+      <g
+         id="g1091">
+        <path
+           d="m 228.96186,320.72386 v -36 h 52.79999 l -13.00113,17.45396 13.72114,18.54604 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.06044388;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path937"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path939"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient947);fill-opacity:1;stroke:#000000;stroke-width:2.50000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 230.96186,318.72386 v -32 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path941"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient949);fill-opacity:1;stroke:#000000;stroke-width:2.50000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 256.88186,318.72386 v -32 h 20.87999 l -11.76,16.52 12.48001,15.48 z" />
+        <path
+           sodipodi:nodetypes="csccsccc"
+           d="m 230.96186,286.72386 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-width:2.50000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path943"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 256.88186,318.72386 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-width:2.50000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path945"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g1098">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path953"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.06044388;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 224.92642,368.14024 v -36 h 51.52079 l -7.9e-4,36 z" />
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           d="m 226.92642,366.14024 v -32 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 l 6.44,13.2 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient963);fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path955"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 252.84642,366.14024 v -32 h 20.87999 l -11.76,16.52 12.48001,15.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient965);fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path957"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path959"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 226.92642,334.14024 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           sodipodi:nodetypes="csccsccc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path961"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 252.84642,366.14024 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z" />
+      </g>
+      <g
+         id="g1059">
+        <path
+           id="path967"
+           transform="translate(8.9171393,-0.59448187)"
+           d="M 329.45312 165.1875 L 329.45312 181.23828 L 347.37305 181.23828 L 341.56836 169.33984 C 340.46037 168.04774 339.7029 167.83188 338.76562 167.67383 C 337.67039 167.48914 336.19819 167.77239 333.99219 167.5293 C 332.56602 167.37214 330.83166 166.54755 329.45312 165.1875 z "
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient995);fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+        <path
+           id="path969"
+           transform="translate(8.9171393,-0.59448187)"
+           d="M 359.90234 149.23828 C 362.35137 153.32819 364.95532 157.33959 367.6582 161.31055 L 376.25195 149.23828 L 359.90234 149.23828 z "
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient977);fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="csccsccc"
+           d="m 338.36978,148.64473 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="path971"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 364.28978,180.64473 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="path973"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g1053">
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient1009);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round"
+           d="m 337.65689,209.6543 v 16.05078 h 17.91993 l -5.80469,-11.89844 c -1.10799,-1.2921 -1.86546,-1.50796 -2.80274,-1.66601 -1.09523,-0.18469 -2.56743,0.0986 -4.77343,-0.14453 -1.42617,-0.15716 -3.16053,-0.98175 -4.53907,-2.3418 z"
+           id="path1001" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient1011);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round"
+           d="m 368.10611,193.70508 c 2.44903,4.08991 5.05298,8.10131 7.75586,12.07227 l 8.59375,-12.07227 z"
+           id="path1003" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1005"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round"
+           d="m 337.65641,193.70601 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           sodipodi:nodetypes="csccsccc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1007"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:round"
+           d="m 363.57641,225.70601 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z" />
+      </g>
+      <g
+         id="g1047">
+        <path
+           id="path1013"
+           d="m 340.03479,259.1147 v 16.05078 h 17.91993 l -5.80469,-11.89844 c -1.10799,-1.2921 -1.86546,-1.50796 -2.80274,-1.66601 -1.09523,-0.18469 -2.56743,0.0986 -4.77343,-0.14453 -1.42617,-0.15716 -3.16053,-0.98175 -4.53907,-2.3418 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient1021);fill-opacity:1;stroke:none;stroke-linejoin:round;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path1015"
+           d="m 370.48401,243.16548 c 2.44903,4.08991 5.05298,8.10131 7.75586,12.07227 l 8.59375,-12.07227 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:url(#linearGradient1023);fill-opacity:1;stroke:none;stroke-linejoin:round;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csccsccc"
+           d="m 340.03431,243.16641 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:none;stroke-linejoin:round;stroke-opacity:1"
+           id="path1017"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 365.95431,275.16641 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#00b7e6;fill-opacity:1;stroke:none;stroke-linejoin:round;stroke-opacity:1"
+           id="path1019"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g1041">
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:none;fill-opacity:1;stroke:#00b7e6;stroke-linejoin:miter;stroke-opacity:1;stroke-width:2.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 338.96473,312.61754 v 16.05078 h 17.91993 l -5.80469,-11.89844 c -1.10799,-1.2921 -1.86546,-1.50796 -2.80274,-1.66601 -1.09523,-0.18469 -2.56743,0.0986 -4.77343,-0.14453 -1.42617,-0.15716 -3.16053,-0.98175 -4.53907,-2.3418 z"
+           id="path1025" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:none;fill-opacity:1;stroke:#00b7e6;stroke-width:2.5999999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 369.41395,292.66832 c 2.44903,4.08991 5.05298,8.10131 7.75586,12.07227 l 8.59375,-12.07227 z"
+           id="path1027" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1029"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:none;fill-opacity:1;stroke:#00b7e6;stroke-width:2.5999999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 338.96425,294.66925 h 9.52 c 2.42667,0 4.53333,0.4 6.31999,1.2 1.81333,0.8 3.2,1.94667 4.16001,3.44 0.96,1.49333 1.44,3.26667 1.44,5.32 0,2.10667 -0.52,3.92 -1.56,5.44 -1.01333,1.52 -2.48,2.65333 -4.4,3.4 -7.52605,-10.22015 -15.48,5.99902 -15.48,-18.8 z"
+           sodipodi:nodetypes="csccsccc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1031"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:none;fill-opacity:1;stroke:#00b7e6;stroke-linejoin:miter;stroke-opacity:1;stroke-width:2.60000002;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 364.88425,328.66925 v -32 c 6.48815,11.14884 14.11575,21.51726 21.6,32 z" />
+      </g>
+      <g
+         id="g1124"
+         transform="translate(-5.4691787,51.124932)" />
+    </g>
+  </g>
+</svg>
